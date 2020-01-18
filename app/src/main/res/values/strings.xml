@@ -3,5 +3,7 @@
     <string name= "question_label_text"> What is the meaning of life?</string>
     <string name="submit_text_field">Enter text</string>
     <string name ="button">Submit</string>
-    <string name ="check"></string>
+    <string name ="answer_label_default">--------</string>
+    <string name ="answer_label_correct">Correct</string>
+    <string name ="answer_label_incorrect">Incorrect</string>
 </resources>
